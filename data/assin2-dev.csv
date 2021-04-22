@@ -1,0 +1,501 @@
+t,h,_entailment,_id,_similarity
+Uma pequena menina está sorrindo e usando um nariz falso e óculos,A menina pequena está sorrindo e usando um nariz falso e óculos,Entailment,1,4.9
+Um grupo de pessoas jogando futebol está correndo no campo,Um grupo de jogadores de futebol está correndo no campo,Entailment,2,4.8
+O homem está empinando uma motocicleta num chão que é praticamente árido,O homem está desmontando de uma moto para um chão que é praticamente árido,None,3,3.6
+Um cervo está saltando sobre uma cerca de ferro,O cervo está saltando sobre a cerca,Entailment,4,4.6
+O homem está tocando a flauta,Um homem está tocando uma flauta,Entailment,5,4.8
+Tofu está sendo fatiado por uma mulher,Uma menina está derretendo dois pedaços de manteiga juntos,None,6,1.435
+Um homem está desenhando algumas figuras,Uma pessoa está desenhando algumas figuras,Entailment,7,4.6
+Alguém está despejando ingredientes em uma panela,Alguém está adicionando ingredientes em uma panela,Entailment,8,4.4
+Um jogador de futebol de campo está marcando um gol,Um jogador de futebol está marcando um gol,Entailment,9,4.7
+Um homem negro está andando perto de uma loja em uma cidade grande,Um homem negro está andando próximo a um prédio em uma grande cidade,Entailment,10,4.5
+Uma menina de biquíni está brincando nas dunas,Uma menina de biquíni está brincando na areia,Entailment,11,4.6
+Um homem está tocando teclado,Um homem está tocando um violão elétrico,None,12,2.4
+O homem não está tocando violão,O homem está tocando um violão,None,13,4
+A onda está sendo surfada pelo surfista,Um surfista está surfando a onda,Entailment,14,4.8
+Dois cachorros grandes estão brincando em um campo gramado,Dois cachorros grandes estão brincando em um campo,Entailment,15,4.7
+Um avião está voando,Um cachorro está latindo,None,16,1
+Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo o dia ensolarado,Não tem ninguém na costa,None,17,3.7
+O menino pequeno com cabelo castanho está pulando de uma cadeira marrom para o chão,Um jovem menino está pulando de uma cadeira,Entailment,18,4.2
+Crianças estão sendo vestidas em fantasias e jogando um jogo,Crianças estão sendo vestidas com fantasias e jogando um jogo,Entailment,19,4.9
+Um filhote de gato está brincando com um brinquedo,O gato pequeno está brincando com um brinquedo,Entailment,20,4.8
+As janelas estão sendo limpas por um homem,O carro do motorista é estacionado por um homem,None,21,1.9
+Um porquinho-da-índia está comendo uma cenoura,Um porquinho-da-índia está devorando uma cenoura,Entailment,22,5
+Pessoas não estão jogando críquete,As pessoas estão jogando críquete,None,23,4
+Um cachorro preto escuro e um cachorro castanho claro estão brincando no quintal,A luz no quintal está pregando truques no escuro no cachorro castanho e preto,None,24,3.1
+Um cachorro que tem pelagem castanha e branca está trotando pelo raso,Um cachorro que tem a pelagem branca e castanha está trotando pelo raso,Entailment,25,5
+Um homem está apontando para um sedã prateado,Um homem está em um estacionamento e está jogando tênis contra uma grande parede,None,26,1.3
+Uma mulher está entregando bolas de vôlei para outra mulher,Uma mulher está recebendo bolas de vôlei de outra mulher,Entailment,27,5
+Uma mulher está passeando com o cachorro na rua,Uma mulher está segurando o cachorro,None,28,3.8
+Uma árvore está sendo apanhada por um homem,Um homem está carregando uma árvore,Entailment,29,4.65
+O homem cercado por fotógrafos está vestindo um terno cinza e óculos,Um homem de terno está sendo cercado por fotógrafos,Entailment,30,4.6
+Um cachorro castanho está passando por uma trilha nevada,Um cachorro castanho está correndo por um caminho nevado,Entailment,31,4.9
+Uma mulher está rachando alguns ovos em uma tigela,Uma mulher está adicionando ingredientes em uma tigela grande,None,32,4.3
+Não tem nenhum homem segurando um sapo,Um homem está segurando um sapo,None,33,2.1
+O panda está comendo bambu,Um urso panda está comendo um pouco de bambu,Entailment,34,4.9
+Um homem está polvilhando queijo ralado em uma pizza,Um homem está polvilhando queijo em uma pizza,Entailment,35,4.7
+Um homem está parado,Um homem está falando,None,36,2.4
+Um macaco está chutando a mão enluvada de uma pessoa,Uma pessoa de luvas está chutando a mão de um macaco,None,37,3.1
+Não tem água sendo bebida por um gato,Um caminhão está descendo rapidamente um morro,None,38,1
+Não tem nenhum homem tocando uma flauta de madeira,Um homem está tocando piano,None,39,2.615
+Uma mulher está dançando numa gaiola,Não há nenhuma mulher dançando em uma gaiola,None,40,3.7
+Um homem está tocando um violão,Um homem está tocando violão,Entailment,41,4.9
+Um homem está comendo alguma comida,A pessoa está comendo,Entailment,42,4.4
+Um homem está fatiando uma cebola,A cebola está sendo cortada pelo homem,Entailment,43,5
+Duas pessoas estão passeando dois cachorros com pelagens douradas na neve,Ninguém está na neve usando roupas que fornecem camuflagem,None,44,2.5
+Jogadores de futebol de campo estão chutando uma bola de futebol de campo no gol,Algumas pessoas que jogam futebol de campo estão chutando uma bola de futebol de campo para dentro do gol,Entailment,45,4.7
+Um homem está digitando em uma máquina usada para taquigrafia,O homem está operando uma máquina de taquigrafria,Entailment,46,4.7
+Um cachorro está pegando uma bola,O cachorro está pegando uma bola,Entailment,47,5
+A menina loira está dançando atrás do equipamento de som,A menina loira está dançando em frente ao equipamento de som,None,48,3.9
+Algum papel está sendo cortado,O pedaço de papel está sendo cortado,Entailment,49,4.6
+Uma criança jovem com cabelo preto está tirando uma foto com uma câmera,Uma criança jovem com cabelo de cor preta está tirando uma foto com uma câmera,Entailment,50,4.9
+Alguém está tocando um piano,Alguém está desmontando um piano,None,51,3.2
+Um carro está sendo dirigido por um homem,Um homem está dirigindo um carro,Entailment,52,4.9
+Algumas campainhas estão soando perto de um cozinheiro fatiando pimentas,A pessoa está cortando em cubos uma pimenta que é laranja,None,53,2.3
+Um homem está realizando um truque em uma bicicleta verde,Um homem está fazendo um truque de bicicleta,Entailment,54,4.5
+O avião sul-africano está voando no céu azul,O avião sul-africano não está voando em um céu azul,None,55,3.8
+Uma mulher está fatiando uma cenoura,A cenoura está sendo fatiada por uma mulher,Entailment,56,5
+O cavalo está sendo montado por um homem,O homem está no passeio com o cavalo,None,57,3.7
+Uma menina está despertando,Uma menina está acordando,Entailment,58,4.9
+A mulher está tocando a flauta,Uma mulher está habilmente tocando uma flauta,None,59,4.6
+Um cachorro preto e branco está brincando com uma bola de vôlei destruída em um campo marrom,Um cachorro preto e branco está brincando com uma bola de voleibol esfarrapada em um campo marrom,Entailment,60,4.8
+Um carro e um trem estão atingindo um brinquedo,Um trem de brinquedo está atingindo um carro de brinquedo,None,61,3.2
+Um peixe está sendo cortado por um homem,Um homem está fatiando um peixe,Entailment,62,4.4
+Um macaco está andando de bike,Um macaco está andando de bicicleta,Entailment,63,4.9
+Uma dupla de policiais mulheres está cantando em um karaokê,Uma dupla de mulheres policiais está cantando,Entailment,64,4.2
+Um cachorro branco grande está pulando para cima na neve,Um grande cachorro branco está pulando no ar sobre uma área nevada,Entailment,65,4.485
+Um homem está correndo estrada abaixo,Um homem está parado,None,66,2.7
+Um panda está escalando,Um homem está se atrelando antes de uma escalada,None,67,1
+Um cavalo está cavalgando sobre um homem,Um homem está andando a cavalo,None,68,3
+Dois meninos no sofá estão jogando vídeo games,Dois meninos estão no sofá jogando jogos na televisão,None,69,4.7
+Um homem está andando de moto pela cidade,Não tem nenhum homem dirigindo uma moto pela cidade,None,70,3.8
+Não tem muitas pessoas no parque de patinação no gelo,Muitas pessoas estão em um parque de patinação no gelo,None,71,3.5
+A mulher está olhando a vista de uma cidade,Uma mulher está olhando a vista de uma cidade,Entailment,72,4.9
+Um esquilo está correndo em círculos,Um corredor está rodeando um esquilo,None,73,3.1
+Uma pessoa está chutando uma bola de futebol de campo entre os pés,A pessoa que está jogando futebol de campo está chutando a bola por entre as pernas de alguém,Entailment,74,3.8
+Um grupo de amigos está navegando a corrente em um bote,Coletes salva-vidas estão sendo usados por um grupo de pessoas que está praticando salvamento na água,None,75,2.9
+Um homem está tocando violão,Um homem está tocando o instrumento,Entailment,76,4.6
+Um macaco está escovando o cachorro,Não tem nenhum macaco escovando o cachorro,None,77,3.9
+Um homem está se movendo graciosamente,Um homem está dançando,None,78,3.5
+A criança está deliciosamente brincando com brinquedos ao ar livre,A criança está brincando com brinquedos ao ar livre,Entailment,79,4.7
+Duas equipes estão jogando futebol de campo,Diferentes times estão jogando futebol no campo,None,80,3
+Um menino está jogando um jogo com blocos de madeira,Um menino está jogando um jogo com blocos feitos de madeira,Entailment,81,4.8
+Um rebanho de renas está atravessando uma estrada,Um rebanho de cervos está atravessando a rua,None,82,3.8
+Alguém está caindo do cavalo,Alguém está caindo de um cavalo,Entailment,83,4.8
+A mulher está guardando os ovos,A mulher está rachando ovos em uma tigela,None,84,3.6
+Um cachorro castanho está pulando no ar,O cachorro castanho está pulando no ar,Entailment,85,4.5
+Um menino está pendurando uma vara para pesca e correndo em frente a um peixe,Um menino está correndo para longe de uma linha de pesca,None,86,2.7
+Uma menina está pulando no carro,Uma menina está pulando em um carro,Entailment,87,3.2
+O homem está operando uma máquina de taquigrafria,O homem precisa de uma máquina de taquigrafia para operar,None,88,3.5
+Um homem em uma mountain bike amarela está dando um salto,Uma pessoa em uma mountain bike amarela está dando um pulo,Entailment,89,4.4
+Duas meninas estão sentadas no chão,Várias crianças estão sentadas e levantam seus joelhos,None,90,3.2
+Não tem nenhum cachorro lambendo um bebê,Um cachorro está lambendo um bebê,None,91,4.4
+Um filhote de cachorro castanho está puxando um poste metálico que está preso no chão,Um filhote de cachorro castanho está mordendo um poste,Entailment,92,4.5
+A mulher está passando sombra,Não tem nenhuma mulher passando sombra,None,93,3.6
+Quatro cachorros estão brincando em uma área coberta de grama,Quatro cachorros estão brincando em uma área gramada,Entailment,94,4.6
+O cachorro não está empurrando o menino na água,Um cachorro está empurrando uma criança pequena dentro de uma poça de chuva,None,95,3.75
+Um gato está brincando com uma garrafa pequenina,Um animal está brincando com uma garrafa pequenina,Entailment,96,4.4
+O homem está comendo,Um homem está comendo comida,Entailment,97,4.55
+Uma mulher está passando maquiagem cuidadosamente,A banda está cantando alto,None,98,1
+Duas pessoas estão lutando e os espectadores estão assistindo,Duas mulheres estão brigando em uma partida de kickboxing,None,99,3.7
+Um homem está despejando óleo dentro de uma frigideira,Um homem está tirando o óleo de uma sautese,None,100,3.6
+Um cachorro está correndo em direção a uma bola,Um cachorro está correndo em direção a um brinquedo,Entailment,101,4.3
+Um palhaço está cantando,Um palhaço está cantando e pessoas estão dançando,None,102,4.4
+O homem está andando de cavalo,A menina está andando de cavalo,None,103,2.9
+Algumas pessoas estão jogando críquete,Alguns homens estão jogando críquete,None,104,4.5
+O menino não está andando em um triciclo,O menino está andando em um triciclo,None,105,3.9
+Um ciclista está pedalando para longe de uma cerca,Um ciclista está pedalando sobre o topo de uma cerca,None,106,3.5
+As batatas estão sendo fatiadas por uma mulher,Uma mulher está fatiando batatas,Entailment,107,4.9
+Uma mulher está tocando flauta,A mulher está tocando uma flauta,Entailment,108,4.9
+Um homem está dobrando lentamente uma tortilha,Uma pessoa está embrulhando uma tortilha,Entailment,109,4.6
+Uma bola está sendo pega por um cachorro em pleno ar,Um cachorro está pegando uma bola em pleno ar,Entailment,110,4.9
+O homem não está caminhando na floresta,O homem está escalando no bosque,None,111,4.4
+Uma mulher está recebendo bolas de vôlei de outra mulher,Uma mulher está sacando bolas de vôlei sobre uma rede,None,112,3.3
+Um pato com penas castanhas e cabeça verde está batendo as suas asas na água,Um pássaro está batendo suas asas na água,Entailment,113,4.4
+A senhora não está cortando a carne,A senhora está rachando um ovo para a batedeira,None,114,1.9
+Um ciclista vestindo preto está quebrando as engrenagens,Um homem está usando um capacete preto e empurrando uma bicicleta,None,115,2.3
+Um motociclista de capacete vermelho está andando em uma motocicleta azul pela estrada,Um motociclista está pilotando a motocicleta ao longo da rodovia,Entailment,116,4.5
+Uma placa de papel está sendo cortada por um homem,Um homem está cortando uma placa de papel,Entailment,117,5
+Um gato branco empoleirado em um pequenino armário de madeira está olhando para fora da janela,"Um gato com pelagem branca, empoleirado em um pequeno armário de madeira, está olhando para fora da janela",Entailment,118,4.8
+Os corredores estão competindo em uma corrida,Os corredores estão correndo em uma competição,Entailment,119,4.5
+Uma mulher está pegando uma lata,Uma mulher está agarrando uma lata,None,120,4
+Um homem está usando uma camisa azul e andando com os pés descalços em uma quadra de tênis,Uma pessoa está usando uma saia azul e andando descalça na quadra de tênis,Entailment,121,4.3
+A senhora está mexendo ovos em uma tigela,A mulher está mexendo ovos em uma tigela,Entailment,122,4.9
+Quatro homens jovens estão em pé parados e um carro está explodindo atrás deles,Os meninos estão de pé na frente do carro em chamas,None,123,3.3
+Um homem está colocando vegetais em uma panela,Alguém está adicionando ingredientes em uma panela,Entailment,124,4.3
+"Um cachorro está perto de uma bola colorida em vermelho, que está no ar",Um cachorro está perto da bola vermelha no ar,Entailment,125,4.9
+Não tem nenhum homem cortando um prato de papel,Um homem está cortando uma placa de papel,None,126,3.5
+Uma mulher está cortando um tomate,Um homem está cortando uma batata,None,127,2.4
+Algumas pessoas estão cantando,Um grupo de pessoas está cantando,Entailment,128,4.6
+"O homem está em pé sobre uma montanha, que é rochosa, e nuvens cinzas estão ao fundo",O homem está de pé em uma montanha rochosa e nuvens cinzas estão ao fundo,Entailment,129,4.7
+Quatro crianças estão fazendo ponte no parque,Quatro garotas estão fazendo ponte e brincando ao ar livre,Entailment,130,4.3
+O homem está despejando um pouco de óleo nos tomates,Um pouco de óleo está sendo derramado sobre os tomates por um homem,Entailment,131,4.8
+As janelas estão sendo polidas por um homem,As janelas estão sendo limpas por um homem,Entailment,132,4.4
+"A menina, que é jovem, está soprando uma bolha que é enorme",A menina de camisa vermelha está soprando uma bolha,None,133,4
+Um homem está despejando um prato de queijo que está ralado dentro de uma panela de molho,Um homem está despejando um prato de queijo ralado em uma panela de molho,Entailment,134,5
+Uma senhora está misturando uma mistura de carne em uma tigela,Não tem nenhuma senhora misturando uma mistura de carne em uma tigela,None,135,4
+O homem está tocando o violão,O homem está tocando o instrumento,Entailment,136,4.4
+Um pai está lançando sua filha em uma piscina,Um pai está jogando a filha na piscina,Entailment,137,4.8
+Não tem nenhum homem vestindo roupas que estão cobertas com tinta ou sentado do lado de fora em uma área movimentada escrevendo algo,Um homem está sentado perto de uma bicicleta e escrevendo uma nota,None,138,2.7
+Um gato está pulando em uma caixa,Um gato está pulando em um recipiente,Entailment,139,4.4
+Não tem nenhum homem tocando uma flauta de bambu,O homem está tocando uma flauta,None,140,4.2
+Um homem está rasgando as fotos de um lago,O homem está configurando a câmera e tirando fotos do pôr-do-sol na praia,None,141,2.5
+Um menino está tocando um violão,O menino está tocando um violão,Entailment,142,4.8
+Tem um cara animadamente brincando com uma bola de meia,Um cara está brincando animadamente com uma bola de meia,Entailment,143,4.8
+Uma criança pequenina está bebendo água da xícara,O filhote de gato não está ansiosamente bebendo um pouco de leite da tigela,None,144,1.4
+Um pouco de alimento está sendo comido por um homem,Um homem está comendo alguma comida,Entailment,145,5
+A mulher está cozinhando algo,A mulher não está cozinhando alguma coisa,None,146,3.6
+Uma árvore pequenina está sendo comida por um bebê elefante,Um elefante bebê está comendo uma árvore pequenina,Entailment,147,4.7
+Alguma coisa está sendo celebrada por um ciclista frio,Um ciclista frio está comemorando,Entailment,148,4.6
+O homem está tocando a flauta,Um homem está guardando o violão,None,149,2.8
+Um homem está pulando corda em um campo,Um homem está pulando corda lá fora,Entailment,150,4.5
+Três meninos estão pulando nas folhas,Crianças em camisas vermelhas estão brincando nas folhas,None,151,4.1
+Um homem está apaixonadamente tocando um violão,O cantor está tocando o violão na frente de uma pessoa,None,152,3.9
+Um chefe está preparando alguma comida,Alguma comida está sendo preparada por um chefe,Entailment,153,4.815
+A pessoa está escrevendo com um lápis,Os escritos são sobre uma pessoa desenhando,None,154,3.2
+O homem está tocando violão e tem a capa do violão aberta para doações,"O violão está sendo tocado pelo homem, que tem o estojo do violão aberto para doações",Entailment,155,5
+Um menino está olhando um calendário,O menino está checando um calendário,Entailment,156,4.8
+Um bebê está espirrando e assustando outro bebê,O bebê está engatinhando feliz,None,157,2.5
+Alguns homens estão jogando críquete,Um pequeno grupo de homens está alegremente jogando críquete,None,158,4.5
+Uma mulher está colocando maquiagem em sua pálpebra,Uma mulher está removendo cosméticos de sua pálpebra,None,159,3.3
+O cachorro está empurrando um menino para a água,Um cachorro está puxando uma criança pequena de uma poça de chuva,None,160,3.2
+A mulher com uma faca está fatiando uma pimenta,A pimenta está sendo fatiada por uma mulher com uma faca,Entailment,161,5
+Peixe está sendo cozido por uma mulher,Uma mulher está cozinhando peixe,Entailment,162,4.9
+Um macaco está vadeando pelo pântano,Um macaco não está andando pela água,None,163,3.2
+Alguns cachorros estão brincando em um rio,Alguns cachorros estão brincando em uma correnteza,Entailment,164,4.6
+Uma mulher está cortando uma cebola,Um cavalo está parado,None,165,1
+Uma pessoa está picando rapidamente os cogumelos com uma faca,Uma pessoa está rapidamente cortando cogumelos com uma faca,Entailment,166,4.9
+Uma mulher está dançando belamente em uma gaiola,A mulher está dançando,Entailment,167,4.335
+Um homem está realizando um truque em uma bicicleta verde,Um homem vestido de preto está andando de bicicleta,None,168,3.8
+Duas pessoas de roupas para neve estão deitadas na neve e estão fazendo anjos de neve,Ninguém de roupas para neve está deitado na neve e fazendo anjos da neve,None,169,4.1
+O homem não está dançando,O homem está dançando,None,170,3.8
+O macaco está escovando um buldogue,O macaco não está escovando um buldogue,None,171,4
+Uma mulher está removendo cosméticos de sua pálpebra,Uma mulher está aplicando cosméticos em sua pálpebra,None,172,3.5
+Um homem e uma mulher estão dando um aperto de mãos,Duas pessoas estão dando um aperto de mãos,Entailment,173,4.7
+Não tem nenhum homem andando do lado de fora,Um homem está caminhando do lado de fora,None,174,4.6
+Não tem nenhum cervo pulando cercas,O cervo está pulando sobre uma cerca,None,175,2.685
+O macaco está escovando um buldogue,Um macaco está escovando o cachorro,Entailment,176,4.4
+Um grupo de amigos está navegando a corrente em um bote,Ninguém está praticando salvamento na água e usando coletes salva-vidas,None,177,2.2
+O conteúdo de uma tigela está sendo misturado por um homem,Um homem está misturando o conteúdo de uma tigela,Entailment,178,5
+Um menino jovem coberto de grama está pulando perto de uma cerca de madeira,Um jovem menino coberto na grama está pulando próximo a uma cerca de madeira,Entailment,179,4.9
+Um jovem menino coberto na grama está pulando próximo a uma cerca de madeira,Um menino jovem coberto de grama está pulando perto de uma cerca de madeira,Entailment,180,4.9
+Uma mulher está fatiando um pepino,Uma pessoa está fatiando um pepino,Entailment,181,4.4
+O cachorro está pulando para pegar um frisbee na neve,Um cachorro está pulando para pegar um frisbee na neve,Entailment,182,5
+Os meninos não estão dançando na frente de algumas pessoas,Dois homens estão fazendo um esquete engraçado com um boxeador na frente de uma multidão de pessoas,None,183,1.6
+Duas pessoas estão montadas em uma moto,Duas bicicletas estão sendo pedaladas por duas pessoas,None,184,3.8
+A bola está sendo enterrada por um homem com uma camisa de time em um jogo de basquete,Um homem com uma camisa de time está enterrando uma bola em um jogo de basquete,Entailment,185,4.9
+Um menino jovem não está escalando uma parede feita de pedra,Uma criança pequena está escalando uma parede de escalada dentro de uma área coberta,None,186,3.9
+Um chimpanzé está praticando artes marciais,Um macaco está praticando artes marciais,Entailment,187,4.5
+Três homens estão encarando os grandes morros verdes à distância,Três homens estão olhando para a distância,Entailment,188,4.3
+Um avião está decolando,Um avião está pousando,None,189,3.4
+Os filhotes de gato estão comendo a comida nas bandejas,Alguns filhotes de gato estão comendo,Entailment,190,4.7
+Uma mulher está tocando um violão que é elétrico,Um homem está tocando um violão,None,191,3.6
+Dois meninos pequeninos vestidos de smoking estão sentados em um piso vermelho acarpetado,Duas crianças pequenas estão vestindo smoking,Entailment,192,4.5
+Uma pessoa está escovando um gato,A pessoa está escovando um gato,Entailment,193,5
+Um homem está empurrando um capacete contra outro em uma bicicleta preta,Um homem está usando um capacete preto e empurrando uma bicicleta,None,194,3.4
+Duas jovens meninas pequenas estão sentadas no chão,Várias crianças estão sentadas e levantam seus joelhos,None,195,2.9
+"Uma pessoa que anda de bicicleta, de uniforme preto e vermelho, está parada em uma mountain bike",Um ciclista de uniforme preto e vermelho está de pé em uma mountain bike,Entailment,196,4.8
+Uma mulher está cozinhando costeleta de porco empanada,Uma mulher está cozinhando uma costeleta de porco que está empanada,Entailment,197,4.8
+Um homem está andando de moto,Um homem está dirigindo uma moto,Entailment,198,4.6
+A batata está sendo descascada por uma mulher,Uma mulher está jogando uma casca de batata,None,199,3.4
+Um cachorro está saltando em um trampolim,Um cachorro está pulando em um trampolim de mergulho,None,200,2.9
+Um homem sem-teto casa está segurando uma placa e implorando por dinheiro,Um homem sem-teto está segurando uma placa e está implorando piedosamente por dinheiro,Entailment,201,4.9
+Um homem está tocando um violão,Um piano está sendo tocado por alguém,None,202,2.1
+O gato está brincando com um dispositivo,Um gato está jogando com um dispositivo,Entailment,203,5
+Não tem nenhum urso panda comendo um pouco de bambu,O panda está comendo bambu,None,204,4.3
+Um homem está esguichando água na boca de um cachorro branco com uma pistola de água,A água está sendo esguichada por um homem na boca de um cachorro branco com uma pistola de água,Entailment,205,4.8
+O homem está mexendo o molho para o frango,O homem está mexendo o óleo,None,206,3.6
+"Dois meninos, que parecem pequeninos, vestidos de smoking estão sentados em um chão de carpete vermelho",Dois meninos pequeninos vestidos de smoking estão sentados em um piso vermelho acarpetado,Entailment,207,4.8
+Um cachorro está correndo na estrada,Não tem nenhum homem correndo na estrada,None,208,2.3
+Uma cobra está sendo alimentada com um rato por um homem,Um homem está alimentando um rato para a cobra,Entailment,209,4.7
+Um cigarro está sendo fumado pelo homem de chapéu de palha,O homem de chapéu de palha está fumando um cigarro,Entailment,210,5
+A pessoa que está praticando snowboard pula pelo ar,Um salto sobre a neve branca é muito atraente para os praticantes de snowboard,None,211,2.9
+Um jogador de pingue-pongue encontra-se com duas pessoas,Alguns animais estão brincando na água,None,212,1
+Uma grande bola verde está atingindo uma batata,Uma grande bola verde está derrubando uma batata,Entailment,213,4.8
+Um pequenino cachorro está deitado em uma cama,Um cachorro pequenino está deitado na cama,Entailment,214,5
+A sautese está sendo untada por uma mulher que está despejando um pouco de água,Um macaco está chutando raivosamente um alvo,None,215,1
+Um homem está falando com a mulher que está sentada ao lado dele e está dirigindo um carro,A mulher e o homem estão viajando de carro,Entailment,216,4.2
+Um menino está praticando teclado,Um menino está tocando um teclado,Entailment,217,4.6
+Um homem está falando em um palco,Não tem nenhum homem falando em um pódio,None,218,3.7
+"Um vestido, que é preto, vermelho, branco e rosa está sendo usado por uma mulher","Uma mulher está tirando uma capa, que é muito grande, e revelando um vestido extravagante",None,219,3.6
+Dois homens estão fazendo um esquete engraçado com um boxeador na frente de uma multidão de pessoas,Os meninos estão dançando na frente de algumas pessoas,None,220,2.2
+Dois homens estão fazendo uma pausa da viagem em uma estrada nevada,Dois homens estão segurando bicicletas e parados ao lado de uma estrada coberta de neve,None,221,3.8
+Um ovo está sendo rachado em uma tigela por uma mulher,A mulher está quebrando dois ovos dentro de uma tigela de vidro,None,222,4.2
+Alguns peixes estão nadando,Alguns peixes estão nadando rapidamente,None,223,4.5
+Um homem está fazendo levantamentos na barra,O homem está fazendo exercício,Entailment,224,4.6
+Dois crocodilos estão nadando em uma piscina verde perto de crianças brincando,Duas crianças estão brincando em uma piscina com uma boia de crocodilo colorida de verde,None,225,3.5
+O homem está dançando freneticamente,O homem está dançando,Entailment,226,4.3
+O esquilo não está correndo em círculos,Um animal está correndo em círculos,None,227,3.5
+O homem está dançando,Uma mulher está dançando,None,228,3.5
+Uma cebola está sendo fatiada pela mulher,A mulher está fatiando uma cebola,Entailment,229,5
+Não tem nenhuma mulher cozinhando ovos,Uma mulher está cozinhando ovos,None,230,3.7
+Um coelho está brincando com um coelho de brinquedo,Um coelho está brincando com um brinquedo,Entailment,231,4.5
+Uma criança de uniforme verde e branco para esportes está correndo sobre a grama,Uma criança de uniforme de esportes verde e branco está correndo sobre a grama,Entailment,232,4.9
+Uma palestra sobre um adulto e um menino está sendo dada em um anfiteatro,"O homem e o menino estão de pé embaixo da escada, que é ao ar livre",None,233,1.5
+Um jogador de basquete está no chão da quadra e outro está pegando a bola,Dois times de basquete estão lutando pela bola na quadra,Entailment,234,4.3
+Várias pessoas estão na frente de um edifício que é coberto por cores,Várias pessoas estão em frente a um prédio colorido,Entailment,235,4.7
+Uma mulher idosa está sem camisa e está desajeitadamente derrubando dois jornais,Uma mulher velha está usando uma camisa com padrões de rosas e está desajeitadamente carregando dois jornais,None,236,3.4
+Um capacete preto está sendo usado por um homem que está empurrando uma bicicleta,Um homem está usando um capacete preto e empurrando uma bicicleta,Entailment,237,4.8
+A mulher está despejando óleo na frigideira,Óleo está sendo despejado dentro de uma frigideira pela mulher,Entailment,238,5
+Um homem de jaqueta vermelha está de pé perto de um caiaque amarelo sobre algumas rochas no oceano,Um homem de jaqueta vermelha está de pé perto de um caiaque amarelo em algumas pedras próximo ao oceano,Entailment,239,4.8
+Não tem nenhum homem jogando a bola em um jogo de basquete,Um homem com uma camisa de time está enterrando uma bola em um jogo de basquete,None,240,4
+Um homem jovem está pegando uma motocicleta de motocross para cima de um morro de terra,Um homem jovem está empurrando uma bicicleta de motocross para cima de um morro de terra,Entailment,241,4.6
+Um pato grande está voando acima de um riacho rochoso,"Um pato, que é grande, está voando sobre um riacho rochoso",Entailment,242,4.8
+Um homem está tirando um prato de queijo ralado de uma panela de molho,A senhora está adicionando queijo ao molho,None,243,2.4
+Uma mulher está dançando e cantando na chuva,Não tem nenhuma mulher dançando e cantando na chuva,None,244,3.8
+Um homem está tocando flauta,Um homem está fazendo música com uma flauta,Entailment,245,4.8
+Um menino está jogando fora um calendário,Um menino está olhando um calendário,None,246,2.4
+Um homem está abrindo um pacote que não contém fones de ouvido,Uma mulher está andando a cavalo,None,247,1.1
+Um homem está batendo em um menino com uma espada,Um menino está batendo em um homem com uma espada,None,248,3.6
+Alguns animais estão brincando selvagemente na água,Alguns animais estão brincando na água,Entailment,249,4.4
+O homem está cortando a fita na caixa,Um homem está passando fita em uma caixa cortada,None,250,3.4
+Um menino jovem vestindo um traje de banho vermelho está pulando em uma piscina de crianças azul,"Um menino, que parece jovem e está usando uma roupa de banho vermelha, está pulando dentro de uma piscina azul de crianças",Entailment,251,4.8
+A senhora está adicionando queijo ao molho,Um homem está tirando um prato de queijo ralado de uma panela de molho,None,252,2.4
+Um homem está realizando um truque em uma bicicleta verde,Um homem negro de verde está andando em uma bicicleta,None,253,2.7
+Um homem está desmontando a bateria,Um homem está tocando a bateria,None,254,3.5
+A mulher está passando sombra,Uma mulher está passando sombra,Entailment,255,5
+A mulher não está mexendo a carne em uma tigela,Uma senhora está misturando uma mistura de carne em uma tigela,None,256,3.4
+Uma mulher está passando maquiagem cuidadosamente,Uma mulher está colocando um pouco de maquiagem cuidadosamente,Entailment,257,4.9
+Um homem em uma camisa tingida de roxo está olhando para o homem de camisa preta que está fazendo uma cara engraçada,Um homem de camisa tingida de roxo está olhando para um homem de camisa preta que está fazendo uma cara que parece engraçada,Entailment,258,5
+Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres,Calça boca de sino rosa e cachecol rosa não estão sendo usados por mulheres com calças prateadas ou pessoas andando de bicicleta,None,259,2.7
+Duas crianças estão empurrando um crocodilo inflável em uma piscina,Duas crianças estão brincando em uma piscina com uma boia de crocodilo colorida de verde,None,260,4.4
+A senhora está rachando um ovo para a batedeira,A senhora está quebrando um ovo para a batedeira,Entailment,261,4.9
+Um motociclista está usando um equipamento que é preto,Um homem está empurrando um capacete contra outro em uma bicicleta preta,None,262,2.4
+Uma chita está correndo rapidamente atrás de sua presa,Uma chita está perseguindo sem ar sua presa através de um campo,None,263,4.6
+Uma menina jovem está usando língua de sinais,Língua de sinais está sendo usada por uma jovem menina,Entailment,264,4.9
+Um homem está rindo,Um homem está chorando,None,265,2.5
+O homem está dirigindo um carro,O carro do motorista é estacionado por um homem,None,266,3.4
+Um homem está aparando um gramado,Um homem está misturando,None,267,1.2
+Uma mulher está mergulhando um camarão na massa,Uma mulher está mergulhando um pitu na massa,Entailment,268,4.4
+A pessoa não está desenhando,Um homem está desenhando uma imagem,None,269,3.5
+O jogador de tênis com uma faixa de cabeça verde está batendo na bola,Um jogador de tênis com uma faixa verde está acertando a bola,Entailment,270,5
+Um homem está em silêncio,Um homem está falando,None,271,3.3
+Um ciclista está fazendo sem medo um truque no ar,O ciclista está realizando um truque no ar,Entailment,272,4.9
+Um menino está olhando um calendário,Um menino está checando um calendário,Entailment,273,4.6
+Um cachorro branco está usando uma tiara de rena de Natal e está brincando com um cachorro castanho na grama,Um cachorro branco está usando uma tiara de rena de Natal e está brincando com um cachorro de pelagem castanha na grama,Entailment,274,4.5
+Um homem está dançando em um telhado,Não tem nenhum homem de pé sobre um telhado tocando um violino,None,275,3.1
+Uma pessoa está tocando um violão e cantando,O cantor está contratando uma pessoa para demitir o violonista,None,276,2.1
+Um bebê está espirrando e assustando outro bebê,Um bebê está espirrando e amedrontando outro bebê,Entailment,277,4.9
+Não há nenhum homem montando um cavalo,O homem está montando um cavalo perto de um riacho,None,278,4
+Um menino jovem está escalando uma parede de pedra,O menino jovem está escalando a parede de pedra,Entailment,279,4.8
+Um homem está andando de motocicleta,Um homem está andando de moto,Entailment,280,5
+Lama está sendo jogada no menino brincando,O menino está brincando na lama,None,281,3.7
+Um homem está tocando o violão,O violão está sendo tocado por um homem,Entailment,282,4.9
+Um homem está se cortando com um pedaço de papel,Um homem está cortando um papel,None,283,2.8
+Uma senhora de chapéu de pele e um casaco de pele está em pé ao ar livre em frente a um prédio,Uma mulher com chapéu de pele e casaco de pele está de pé do lado de fora do edifício,Entailment,284,4.8
+Três mulheres estão em pé paradas,Três mulheres estão dançando,None,285,2.8
+Um homem está falando a respeito do palco,Um homem está falando em um palco,None,286,3.565
+Alguém está tocando piano,O piano está sendo tocado por alguém,Entailment,287,4.8
+A mulher não está tocando a flauta,A mulher está tocando a flauta,None,288,4.2
+Um gato está bebendo leite avidamente,Um pouco de leite está sendo bebido avidamente por um gato,Entailment,289,4.8
+Um menino está de pé na água,Um menino está de pé fora da água,None,290,3.6
+Um violão está sendo tocado por um homem ao lado de um baterista,Um homem está tocando violão perto de um baterista,Entailment,291,4.9
+Um homem está se exercitando,Uma menina está se exercitando,None,292,3.4
+Duas crianças estão empurrando um crocodilo inflável em uma piscina,Duas crianças estão puxando um crocodilo inflável para fora de uma piscina,None,293,3.7
+Um homem está colocando um pouco de queijo em uma pizza,Um homem está polvilhando queijo ralado em uma pizza,Entailment,294,4.8
+Uma menina tem uma camiseta e está mantendo sua boca aberta,Uma menina está vestindo uma camiseta e tem a sua boca aberta,Entailment,295,4.6
+Um homem está fugindo de uma bola de futebol,Um homem está chutando uma bola de futebol de campo,None,296,3
+Dois meninos assustados estão conversando no telefone,Uma mulher está falando em um telefone,None,297,2.7
+Um homem está guardando um violão,Um homem está apaixonadamente tocando um violão,None,298,3.3
+Um homem do Oriente Médio está parado encostado em um poste perto de outras pessoas,Um homem está encostado contra um poste e está cercado por pessoas,Entailment,299,4.2
+Um homem está sentado confortavelmente à mesa,Uma pessoa está sentada confortavelmente em uma mesa,Entailment,300,4.5
+Um homem está misturando,Um homem está sacudindo uma bebida,None,301,3.8
+Um homem está andando lentamente através de uma ponte de corda,Um menino está andando através de uma ponte,None,302,3.5
+Uma flauta está sendo tocada por uma menina,Uma menina está tocando uma flauta,Entailment,303,4.9
+Uma mulher está fatiando um tomate,Uma mulher está descascando uma batata,None,304,3
+Dois adultos estão sentados em cadeiras e estão observando o oceano,Alguns adultos estão sentados nas cadeiras e estão observando o oceano,Entailment,305,4.7
+O homem está intensamente tocando o violão,Uma jovem mulher está tocando o violão,None,306,3.4
+O homem está montando um cavalo,Um cavalo está sendo montado por um homem,Entailment,307,5
+Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo um dia cheio de sol,Um monte de pessoas está na costa,Entailment,308,3.8
+Um cachorro que tem a pelagem branca e castanha está trotando pelo raso,Um cachorro branco e castanho está andando pela água com dificuldade,None,309,4
+O cachorro preto está carregando uma bola azul e branca na boca,Um cachorro preto está carregando um brinquedo azul e branco na boca,Entailment,310,4.9
+Um homem está tocando bateria,Um homem está tocando a bateria,Entailment,311,4.8
+Dois homens estão de pé perto da água e estão segurando varas de pesca,Não tem nenhum homem de pé próximo da água e segurando varas de pesca,None,312,3.4
+O homem está tocando um violão,O homem não está tocando um violão,None,313,3.2
+O macaco está sendo treinado em artes marciais,Um macaco está chutando a mão enluvada de uma pessoa,None,314,3.2
+O médico não está ajudando o paciente,O médico está ajudando o paciente,None,315,3.4
+Pessoas estão em uma praia cheia de areia perto do oceano e estão curtindo o dia ensolarado,Um monte de caras está na costa,None,316,3.2
+Um grupo de pessoas está equipado com equipamentos de segurança,Uma pessoa com equipamento de ciclismo está parada de pé de frente para algumas montanhas,None,317,2.7
+A noiva e o noivo estão partindo após o casamento,Um casal que acabou de se casar está descendo o corredor,None,318,4.1
+A mulher não está cortando uma cenoura,A mulher está cortando uma cenoura,None,319,3.7
+Dois homens estão invadindo um carro durante uma viagem em uma estrada nevada,Dois homens com bicicletas estão do lado de uma estrada nevada,None,320,2.2
+Um cachorro está correndo em uma estrada nevada,Um cachorro está correndo em um caminho nevado,Entailment,321,4.5
+O cantor está contratando uma pessoa para demitir o violonista,Uma pessoa está tocando um violão e cantando,None,322,2.1
+Um homem está sentado pacificamente em um barco em frente ao pôr-do-sol perto de uma bandeira,Um homem está em um barco na frente do pôr do sol,Entailment,323,4.5
+Um homem está participando de uma corrida de bmx,Um homem está participando de uma corrida de bmxs,Entailment,324,4.7
+Um homem perto de uma parede feita de tijolos está usando uma máscara em torno de sua boca e uma rede de cabelo,Um homem perto de um muro de tijolos está usando uma máscara ao redor da boca e uma rede de cabelo,Entailment,325,4.8
+Um casal está correndo em direção ao oceano,Não tem nenhum casal correndo em direção ao oceano,None,326,3.5
+Não há nenhum homem de jaqueta preta fazendo truques em uma moto,Uma pessoa de blusa preta está fazendo truques em uma moto,None,327,3.6
+A mulher está mexendo ovos em uma tigela,A senhora está mexendo ovos em uma tigela,Entailment,328,4.9
+Um avião está pousando,Este avião está decolando,None,329,3.8
+A mulher está picando alho,Os brócolis estão sendo picados por uma mulher,None,330,3
+"Um cachorro, que é caramelo, está atravessando a neve",Um cachorro caramelo está correndo pela neve,Entailment,331,4.9
+A senhora não está medindo o tornozelo de outra mulher,A senhora está medindo o tornozelo de outra mulher,None,332,3
+A senhora está fatiando um tomate,A mulher está fatiando um tomate,Entailment,333,4.7
+Uma mulher está batendo dois ovos na tigela e está usando um batedor feito de metal,Uma mulher está batendo dois ovos em uma tigela e está usando um batedor feito de metal,Entailment,334,5
+Um homem está fatiando um pão,Ninguém está fatiando um pedaço de pão,None,335,3.6
+A mulher com uma faca está fatiando uma pimenta,A mulher com a faca não está fatiando uma pimenta,None,336,4.2
+Um homem está fatiando um pão,Uma pessoa está fatiando um pedaço de pão,Entailment,337,4.6
+Um menino está vestindo tudo preto e está escorregando em um escorregador inflável amarelo,Um menino está vestindo tudo preto e está escorregando em um escorregador inflável,Entailment,338,4.3
+Um homem está fazendo exercícios,Um homem fazendo exercícios está sendo derrubado,None,339,4.1
+O grande cachorro castanho está correndo ao ar livre na sujeira,O cachorro grande castanho está correndo para fora na sujeira,Entailment,340,4.9
+"Um cachorro, que é branco, está em pé nas folhas caídas",Um cachorro branco está parado em cima de folhas caídas,Entailment,341,4.7
+Um homem está se atrelando antes de uma escalada,Um panda está escalando,None,342,1
+Uma senhora está misturando uma mistura de carne em uma tigela,Uma senhora está misturando uma mistura feita de carne em uma tigela,Entailment,343,5
+Um menino está olhando um calendário,Um menino está encarando um calendário,Entailment,344,4.2
+Uma mulher está dançando belamente em uma gaiola,Uma mulher está dançando numa gaiola,Entailment,345,4.8
+Um homem está derrubando uma árvore com um machado,Um homem está aguando uma árvore,None,346,3.1
+Um gato grande está abrindo uma gaveta com suas patas e pulando para dentro,Um gato está abrindo uma gaveta e escalando para dentro,Entailment,347,4.4
+Um homem e uma mulher estão falando,Um homem está falando com uma mulher,Entailment,348,4.8
+"Uma bolha explodiu, tingindo a camisa da menina de vermelho",A menina de camisa vermelha está soprando uma bolha,None,349,2.965
+Uma mulher está pegando uma lata,Uma mulher está cortando um tomate,None,350,1.8
+Um cachorro grande está correndo na grama com uma bola de tênis na boca,"Um cachorro, que é grande e cinza, está derrubando uma bola de sua boca e parando na grama",None,351,3.5
+Uma mulher está sendo beijada por um homem,Duas pessoas estão discutindo perto de uma multidão,None,352,1.1
+"As pessoas estão andando na estrada ao lado de uma cachoeira, que é bonita",As pessoas estão andando na estrada ao lado de uma bela cachoeira,Entailment,353,4.9
+Meninos pequenos estão brincando em uma fonte de água na frente de muitas pessoas,As crianças pequenas estão brincando em uma fonte de água na frente de várias pessoas,Entailment,354,4.4
+Uma pessoa de luvas está chutando a mão de um macaco,Um macaco está chutando a mão enluvada de uma pessoa,None,355,3.1
+Um cachorro está saltando alto no ar e outro está observando,Um cachorro está pegando uma vara no ar e outro está assistindo,None,356,4.2
+Uma pessoa está de pé em um vasto campo de gelo glacial,Alguma pessoa está de pé em um vasto campo de gelo glacial,Entailment,357,4.8
+A mulher está manuseando um sapo,Não tem nenhum homem segurando um sapo,None,358,3.2
+Um menino está batendo em um homem com uma espada de plástico,Um homem está sendo atingido por uma criança com uma arma,Entailment,359,4.2
+Um homem em uma camisa tingida de roxo está olhando para o homem de camisa preta que está fazendo uma cara engraçada,Um homem em uma pose está sendo divertidamente assistido por outro homem,Entailment,360,3.5
+Um homem de terno está de pé em frente a um microfone e cantando,O homem de terno está de pé de frente para um microfone e cantando,Entailment,361,5
+Dois cachorros brancos estão correndo e pulando pela praia,Um par de cachorros brancos estão correndo e pulando ao longo de uma praia,Entailment,362,4.9
+Um pato marrom com uma cabeça verde está batendo suas asas na água,Um pássaro está batendo suas asas na água,Entailment,363,4.3
+Uma menina está olhando surpresa de uma janela da frente de uma casa na Ásia,"Uma menina da Ásia, na frente de uma janela de tijolos, parece surpresa",None,364,4.6
+Uma criança loira está descendo um escorregador e erguendo os braços,Uma criança loira está descendo um escorregador e jogando os braços para cima,Entailment,365,4.9
+Os homens estão colocando as bagagens no porta-malas de um carro,Os homens estão colocando bagagens dentro do porta-malas de um carro,Entailment,366,5
+Uma pessoa está fatiando uma batata,Uma batata está sendo fatiada por uma pessoa,Entailment,367,4.9
+A mulher não está cortando uma cenoura,Uma mulher está fatiando uma cebola,None,368,2.5
+Um menino com roupa de banho está sentado em cima de uma fonte circular,Um menino de roupa de banho está sentado em uma fonte circular,Entailment,369,4.5
+Não tem nenhuma mulher batendo ovos,Uma mulher está misturando ovos,None,370,3.1
+Um homem está sentado perto de uma bicicleta e escrevendo uma nota,Não tem nenhum homem vestindo roupas que estão cobertas com tinta ou sentado do lado de fora em uma área movimentada escrevendo algo,None,371,2.7
+O homem está fatiando a batata,A pessoa está fatiando a batata,Entailment,372,4.3
+Uma menina com uma sacola preta está em um trem lotado,Uma mulher asiática no meio de muitas pessoas está carregando uma sacola preta,None,373,3.5
+Uma pessoa está fritando alguma comida,Uma pessoa está cozinhando alguma comida,Entailment,374,4.3
+Uma mulher está tocando um violão elétrico,Um homem está tocando um violão,None,375,3.9
+O homem está operando uma máquina de taquigrafria,Um homem está arrumando uma máquina de taquigrafia,None,376,3.4
+Não tem nenhum casal correndo em direção ao oceano,Um casal está correndo em direção ao oceano,None,377,3.5
+Uma mulher está descascando uma batata,O homem está fatiando algumas batatas,None,378,3.1
+Uma menina está cortando manteiga em duas partes,Tofu está sendo fatiado por uma mulher,None,379,2.4
+Uma vaqueira está montando um cavalo e rodeando um barril,Uma vaqueira está montando em um barril perto de um cavalo na esquina,None,380,2.8
+Alguma pessoa está de pé em um vasto campo de gelo glacial,Uma pessoa está de pé em um vasto campo de gelo glacial,Entailment,381,4.8
+O menino está andando em um triciclo,Não tem nenhuma mulher pilotando uma moto aquática,None,382,1.7
+Um homem e uma mulher de meia idade estão andando de bicicleta por uma estrada perto da água,Um homem e uma mulher de meia idade estão montando bicicletas por uma estrada ao lado da água,Entailment,383,4.9
+Um homem está carregando uma árvore,Um homem está pegando uma árvore,None,384,4.3
+Uma menina não está tocando o violão,O homem está intensamente tocando o violão,None,385,3.4
+Uma criança de pele bronzeada está olhando para a câmera,Uma criança de pele bronzeada está olhando a câmera,Entailment,386,4.8
+Uma menina jovem de camisa verde está andando na calçada e segurando uma placa rosa,"Uma menina de camisa azul, que parece jovem, está andando na calçada e segurando uma placa rosa",Entailment,387,4.9
+Um homem está sentado pacificamente em um barco em frente ao pôr-do-sol perto de uma bandeira,"Um homem está sentado em um barco de frente para o pôr do sol, perto de uma bandeira",Entailment,388,4.3
+Uma mulher está mergulhando um camarão na massa,Não tem nenhuma mulher mergulhando um camarão na massa,None,389,4.1
+Duas pessoas estão lutando e os espectadores estão assistindo,Duas pessoas estão lutando kickboxing e espectadores estão assistindo,None,390,4.4
+Um homem está dando um telefonema,Um homem está conversando ao telefone,None,391,4.3
+O gato empoleirado na mesa está olhando curiosamente pela janela,O gato empoleirado na mesa está olhando pela janela,Entailment,392,4.8
+Uma mulher concentrada está tocando flauta,Uma mulher está tocando flauta,Entailment,393,4.3
+Um homem está preparando algum prato,Um homem está preparando um prato,Entailment,394,5
+Um cachorro está pulando para pegar um frisbee na neve,O cachorro está pulando para pegar um frisbee na neve,Entailment,395,5
+Um pato marrom com uma cabeça verde está batendo suas asas na água,Um pato com penas castanhas e cabeça verde está batendo as suas asas na água,Entailment,396,4.7
+Uma mulher está quebrando dois ovos em uma tigela,Alguns ingredientes estão sendo separados em uma tigela por uma pessoa,None,397,3.45
+A mulher está dançando,A senhora está dançando,Entailment,398,5
+Uma mulher está cozinhando ovos,A mulher está cozinhando algo,Entailment,399,4.2
+A menina está batucando suas unhas,Uma menina está batucando as unhas,Entailment,400,4.9
+Um cachorro preto e um cachorro branco estão lutando no chão,Um cachorro preto e um cachorro branco estão se digladiando no chão,Entailment,401,4.7
+Um limão está sendo espremido por uma mulher,Uma mulher está espremendo um limão,Entailment,402,4.9
+Um homem está liderando a corrida,Alguns homens estão correndo em competições no exterior,None,403,3.1
+O homem está tocando o piano de forma divertida com seu nariz,O homem está tocando o piano com seu nariz,Entailment,404,4.6
+Uma pessoa está sentada confortavelmente em uma mesa,Um homem está sentado confortavelmente à mesa,None,405,4.5
+Um homem está cortando uma batata em pedaços,um homem está cortando uma batata,Entailment,406,4.8
+Uma corda está sendo escalada por um homem,Um cabo está sendo escalado por um homem,Entailment,407,4.2
+Não tem nenhum homem jogando a bola em um jogo de basquete,O jogador está enterrando a bola de basquete e uma multidão está ao fundo,None,408,3.5
+Uma pessoa está polvilhando tempero em vários pães fatiados e com manteiga,Um homem está polvilhando tempero em vários pães fatiados e com manteiga,None,409,4.4
+Um leão está cansadamente andando ansiosamente em uma jaula,Não tem nenhum leão cansadamente andando ansiosamente em uma jaula,None,410,3.6
+Uma mulher está cortando uma cebola,A mulher está jogando cebolas fora,None,411,3
+Não tem nenhuma pessoa usando chapéu e sentada na grama,Uma pessoa está usando um chapéu e está sentada na grama,None,412,3.3
+Um homem em uma grande cidade está segurando uma placa e pedindo por dinheiro,Um homem em uma cidade grande está segurando uma placa e pedindo dinheiro,Entailment,413,5
+Uma mulher está batucando seus dedos em uma mesa,Uma mulher está batucando seus dedos,Entailment,414,4.7
+Três pessoas estão paradas ao lado de um galho de árvore,Duas crianças estão penduradas em um galho grande,None,415,2.5
+A pessoa está fatiando a batata,O homem está fatiando a batata,None,416,4.3
+Uma pessoa está parando de tocar um trompete,Uma pessoa está tocando trompete,Entailment,417,3.6
+Uma mulher está dançando numa gaiola,A senhora está dançando,Entailment,418,4.1
+Uma mulher está fatiando uma cebola,Uma cebola está sendo fatiada por uma mulher,Entailment,419,4.9
+Três pessoas estão dirigindo quadriciclos em um campo,Três pessoas estão dirigindo quadriciclos,Entailment,420,4.2
+Uma pessoa está andando de motocicleta,Uma pessoa está picando uma cebola roxa,None,421,1.2
+"Um cachorro, que tem pelagem castanha e branca, está segurando uma bola de beisebol na boca",Um cachorro castanho e branco está segurando uma bola de beisebol na boca,Entailment,422,4.9
+O ciclista está realizando um truque no ar,Um ciclista está fazendo sem medo um truque no ar,None,423,4.9
+Um menino está dizendo uma palavra,Uma criança está conversando,Entailment,424,3.9
+Dois homens estão lutando com os punhos em um ringue,Os homens estão lutando com seus punhos em um ringue,Entailment,425,4.8
+A mulher está quebrando dois ovos em uma tigela feita de vidro,Uma mulher está quebrando um ovo em uma tigela,Entailment,426,4.5
+Dois homens com bicicletas estão do lado de uma estrada nevada,Dois homens estão tomando uma pausa de uma viagem em uma estrada coberta de neve,None,427,3.2
+Um menino na adolescência está falando com uma menina com uma webcam,Um homem está conversando com uma menina com uma câmera de internet,None,428,3.9
+O homem está dançando freneticamente,Três mulheres estão dançando,None,429,2.4
+Uma pessoa está queimando algumas câmeras com um maçarico,Algumas câmeras estão sendo queimadas por uma pessoa com um maçarico,Entailment,430,4.8
+Um homem está fazendo exercícios,Um homem está descansando,None,431,2.8
+Um bebê tigre está brincando com uma bola,Um filhote de tigre está brincando com uma bola,Entailment,432,4.9
+Um cachorro está comendo uma boneca,Uma criança está brincando com um brinquedo de cachorro,None,433,1.9
+Dois cachorros estão brincando em uma praia,Dois cachorros estão brincando na praia,Entailment,434,4.8
+Não há nenhum homem montando um cavalo,Um homem está dirigindo um carro,None,435,1.7
+Os corredores estão competindo em uma corrida,Os corredores não estão participando da corrida,None,436,3.9
+Um menino está brincando de escorregar na grama,Uma criança está brincando de escorregar na grama,Entailment,437,4.6
+A criança pequena está jogando futebol e caindo inofensivamente na grama,A bola de futebol está entre os pés de um menino que está deitado na grama,None,438,3.4
+Um grupo não está pegando a correnteza em um bote,Esse grupo de pessoas está praticando salvamento na água e usando coletes salva-vidas,None,439,2.8
+Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres,Uma pedestre está construindo bicicletas rosas para ciclistas que usam boás,None,440,2.8
+Um homem e uma mulher estão andando juntos pela cidade,Um homem e uma mulher estão andando juntos pelo bosque,None,441,3.5
+Um cachorro branco está de pé nas folhas no chão,Um cachorro branco está parado em cima de folhas caídas,Entailment,442,4.7
+Um filhote de cachorro fofo está repetidamente rolando de um lado para outro com suas costas no chão,Um filhote de cachorro está rolando de um lado para outro de costas repetidamente,Entailment,443,4.4
+Um homem está parado em uma calçada,O homem está de pé na calçada,Entailment,444,5
+Algumas mulheres estão falando,Algumas mulheres não estão falando,None,445,4.1
+O homem de chapéu de vaqueiro está andando pelo mercado e está colocando uma mão no bolso,O homem de chapéu para vaqueiro está andando por um mercado e está pondo uma mão no seu bolso,Entailment,446,4.8
+O homem está abaixando barras,O homem está levantando pesos,None,447,3.8
+Uma mulher está vestindo uma touca egípcia,A mulher não está usando óculos ou touca,None,448,3.6
+Um homem está chorando,Um homem está gritando,None,449,3.1
+Uma mulher está cozinhando um ovo em uma sautese,Uma mulher está despejando uma mistura em uma tigela e misturando-a,None,450,2.2
+Uma mulher está agarrando uma lata,Uma mulher está pegando uma lata,Entailment,451,4
+O bebê está engatinhando feliz,Um bebê está engatinhando feliz,Entailment,452,4.9
+Não tem nenhuma mulher pilotando uma moto aquática,O menino está andando em um triciclo,None,453,1.7
+Um esquilo está rodando em círculos,Um corredor está rodeando um esquilo,None,454,3.1
+Uma jovem senhora de biquíni está deitada na praia,Uma senhora que parece jovem está deitada na praia,Entailment,455,4.3
+A menina jovem está soprando uma bolha que é grande,A jovem mulher de camisa tingida de vermelho está soprando uma bolha que é gigante,None,456,3.8
+O chefe está cuidadosamente secando o óleo da frigideira,O chefe está cuidadosamente despejando óleo dentro de uma frigideira,None,457,3.5
+Uma moto aquática está sendo pilotada por uma mulher,Uma mulher está andando em uma moto aquática,Entailment,458,5
+Não tem nenhuma mulher preparando um ovo em uma sautese,Uma mulher está despejando uma mistura em uma tigela e misturando-a,None,459,2.9
+Um menino debaixo de um guarda-chuva está sendo segurado por seu pai que está vestindo um casaco tingido de azul,Um menino embaixo de um guarda-chuva está sendo segurado por seu pai que está usando um casaco azul,Entailment,460,4.6
+Um menino está aparando o gramado,Um cara está aparando o gramado,Entailment,461,4.6
+Um homem está sendo curiosamente observado por uma mulher,Uma mulher está olhando curiosamente para um homem,Entailment,462,4.4
+Algumas pessoas estão sentadas no chão do lado de fora de um monumento,O grupo de pessoas está sentado no chão do lado de fora de um monumento,Entailment,463,4.9
+Um homem e uma mulher estão sentados,Um homem está andando na chuva,None,464,2
+Um homem está tocando uma flauta de madeira,O piano está sendo tocado por um homem,None,465,2.6
+Um homem está tocando teclado em um parque,Uma pessoa está tocando o teclado,Entailment,466,4.3
+A menina de camisa vermelha está soprando uma bolha,A menina de camisa tingida de vermelho não está soprando uma bolha,None,467,2.4
+Algumas câmeras estão sendo queimadas por uma pessoa com um maçarico,Uma pessoa está queimando algumas câmeras com um maçarico,Entailment,468,4.8
+Uma mulher está costurando com uma máquina,Uma mulher está usando uma máquina de costura,Entailment,469,4.9
+Um menino pequeno está tocando violão,Um menino está tocando um violão,Entailment,470,4.4
+A mulher está usando um capacete azul e está andando de bicicleta em um estacionamento,Uma mulher está usando um capacete azul e está andando de bicicleta em um estacionamento,Entailment,471,5
+Um menino na adolescência está falando com uma menina com uma câmera de internet,Um homem está falando com uma menina usando uma câmera de internet,None,472,3.9
+Uma mulher está tocando um violão,Não tem nenhuma mulher tocando um violão,None,473,3.7
+Um menino e uma menina em trajes de banho estão usando boias em seus braços,Um menino e uma menina de trajes de banho estão usando boias de braço,Entailment,474,4.9
+Alguém está pregando uma lente de câmera com fortes barulhos,O homem está martelando um prego com uma câmera,None,475,3.55
+Um menino está tocando um teclado,Um menino está sentado confortavelmente em um quarto e tocando piano perto de uma lâmpada,None,476,3.9
+Um homem está passeando na chuva,Um homem está andando na chuva,Entailment,477,5
+Uma mulher que está usando um boá rosa está andando de bicicleta por uma ponte construída para pedestres,Uma mulher que está vestindo um cachecol rosa está andando em uma bicicleta pela ponte construída para pedestres,Entailment,478,4.3
+Uma mulher está cortando carne,Uma mulher está cortando alguma carne,Entailment,479,4.9
+Um menino está em pé em frente ao edifício azul no espaço reservado para pessoas com deficiência,"Um menino de camiseta vermelha está na frente de uma parede, que é longa e azul, e está desconfiadamente levantando uma sobrancelha para a câmera",None,480,2.3
+Uma menina está pulando de uma pedra e outra está em pé sobre a rocha,Uma menina está pulando de uma rocha e outra está de pé sobre a rocha,Entailment,481,4.8
+Não tem nenhuma mulher fatiando um tomate,Uma mulher está fatiando um tomate,None,482,3.065
+Um homem está apontando para um sedã prateado,Um homem solitário está em um estacionamento e está jogando tênis contra um grande muro,None,483,1.4
+O homem está fatiando pão,O pão está sendo fatiado por um homem,Entailment,484,4.9
+Um homem não está tocando um violão,Um homem está tocando teclado,None,485,3.735
+Um cachorro preto escuro e um cachorro castanho claro estão brincando no quintal,"Um cachorro, que é castanho, e um que é preto estão correndo na grama",None,486,3.9
+Um homem está sentado perto de uma bicicleta e escrevendo uma nota,Um homem sentado está ocupado escrevendo algo em uma área coberta por tinta,None,487,3.2
+Dois meninos estão fazendo artes marciais em um tapete azul,Duas crianças estão fazendo arte marcial em um tapete azul,Entailment,488,4.5
+A massa está sendo esticada por um homem,Um homem está espalhando massa,Entailment,489,4.8
+Um homem está cortando uma batata,Uma mulher está cortando um tomate,None,490,2.4
+A comida nas bandejas está sendo comida pelos filhotes de gato,Os filhotes de gato estão comendo a comida nas bandejas,Entailment,491,4.8
+O homem está tocando a flauta,A pessoa está tocando a flauta,Entailment,492,4.7
+Alguém está sendo fervido com quiabo em uma panela,Alguém está fervendo quiabo em uma panela,None,493,2.7
+Dois salsichas estão brincando com uma bola vermelha,Dois cachorros castanhos estão disputando uma bola vermelha e estão brincando na grama,None,494,3.7
+Diferentes times estão jogando futebol no campo,Diferentes jogadores de futebol estão em formação em um campo,Entailment,495,3.9
+Um gato está tocando teclados,Um gato está tocando um piano comicamente,None,496,3.9
+A mulher está rachando ovos em uma tigela,A senhora não está quebrando ovos na tigela,None,497,3.6
+Um homem de patins está patinando em uma pista construída para skate,Um homem de patins está patinando em uma pista de skate,Entailment,498,4.7
+Uma tartaruga de mar está procurando peixes,O peixe está seguindo a tartaruga,None,499,3.2
+Uma mulher está esvaziando a água de uma caneca,Uma mulher está coletando água da torneira em uma caneca,None,500,3.8
