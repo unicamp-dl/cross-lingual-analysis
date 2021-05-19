@@ -5,8 +5,9 @@ This repository contains the translation codes used in the paper [A cost-benefit
 # Evaluation benchmarks
 The models were benchmarked on three tasks (Question Answering, Natural Language Inference and Passage Text Ranking) and compared to previous published results. Metrics are: Exact Match and F1-score for Q&A, Accuracy for NLI and MRR@10 for Text Ranking.
 
-| First Header  | Second Header | One-time costs | Recurrent costs | Added Latency | 
-|               |               | Comm    Open S | Comm     Open S |               |
+| Method        | Score         | One-time costs | Recurrent costs | Added Latency | 
 | ------------- | ------------- | -------------- | --------------- | ------------- | 
 | Content Cell  | Content Cell  |                |                 |               |
 | Content Cell  | Content Cell  |                |                 |               |
+| ------------- | ------------- | -------------- | --------------- | ------------- |
+|               |               |                |                 |               |    
