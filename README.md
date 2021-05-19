@@ -24,12 +24,24 @@ The datasets SQuAD and MNLI are directly downloaded from the notebooks of this r
 
 # How do I cite this work?
 
-: *(Footnote)* @article{cross-lingual2021,
+~~~ {.xml
+ @article{cross-lingual2021,
     title={A cost-benefit analysis of cross-lingual transfer methods},
     author={Moraes, Guilherme and Bonifácio, Luiz Henrique and de Souza, Leandro Rodrigues and Nogueira, Rodrigo and Lotufo, Roberto},
     journal={arXiv preprint arXiv:2105.06813},
     url={https://arxiv.org/abs/2105.06813},
     year={2021}
 }
+~~~
 
+~~~ {.xml}
+  <name><surname>Mulvany</surname><given-names>Ian</given-names></name>,
+  <data-title>citing-dataset-elements</data-title>.
+  <source>FigShare</source>,
+  <date-in-citation content-type='pub-date' iso-8601-date='2014-06-30'>
+    <day>30</day><month>06</month><year>2014</year></date-in-citation>,
+  <pub-id pub-id-type='doi' xlink:href='https://doi.org/10.6084/m9.figshare.1088363'
+    assigning-authority='figshare'>10.6084/m9.figshare.1088363</pub-id>.
+</mixed-citation>
+~~~
 
