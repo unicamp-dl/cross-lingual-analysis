@@ -10,4 +10,5 @@ The models were benchmarked on three tasks (Question Answering, Natural Language
 | Content Cell  | Content Cell  |                |                 |               |
 | Content Cell  | Content Cell  |                |                 |               |
 | ------------- | ------------- | -------------- | --------------- | ------------- |
-|               |               |                |                 |               |    
+|  NLI          |               |                |                 |               |    
+|               |               |                |                 |               |  
