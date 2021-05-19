@@ -27,7 +27,7 @@ The datasets SQuAD and MNLI are directly downloaded from the notebooks of this r
 ~~~ {.xml
  @article{cross-lingual2021,
     title={A cost-benefit analysis of cross-lingual transfer methods},
-    author={Moraes, Guilherme and Bonifácio, Luiz Henrique and de Souza, Leandro Rodrigues and Nogueira, Rodrigo and Lotufo, Roberto},
+    author={Moraes, Guilherme and Bonifácio, Luiz Henrique and Rodrigues de Souza, Leandro and Nogueira, Rodrigo and Lotufo, Roberto},
     journal={arXiv preprint arXiv:2105.06813},
     url={https://arxiv.org/abs/2105.06813},
     year={2021}
