@@ -15,10 +15,10 @@ The models were benchmarked on three tasks (Question Answering, Natural Language
 ## Data 
 
 We made available the following data and the respectives notebooks with translation code:
-- SQuAD (Q&A)
-- FaQuAD (Q&A)
-- MNLI (NLI)
-- ASSIN2 (NLI)
+- [SQuAD](https://colab.research.google.com/drive/1CSNwfWJCwhFgYTtjxsDvUdN1DMuU_P4-?usp=sharing) (Q&A)
+- [FaQuAD](https://colab.research.google.com/drive/1HdPjzn61genPyZfiDG5fqAwPNI4vhegw?usp=sharing) (Q&A)
+- [MNLI](https://colab.research.google.com/drive/1Y9ZaJuN-SVo0fmwypPzcJCOetFw-A2tx?usp=sharing) (NLI)
+- [ASSIN2](https://colab.research.google.com/drive/1S5zwaw8KWee8y6Vyq-XHC8Am3GmGFpv9?usp=sharing) (NLI)
 
 The datasets SQuAD and MNLI are directly downloaded from the notebooks of this repository. We also provide the FaQuAD and ASSIN2 datasets.
 
