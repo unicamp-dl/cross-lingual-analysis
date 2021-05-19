@@ -7,8 +7,27 @@ The models were benchmarked on three tasks (Question Answering, Natural Language
 
 | Model                           | Pre-train     | Fine-tune       | F1           | Accuracy    | 
 | ------------------------------- | ------------- | --------------- | ------------ | ----------- | 
-| mBert (Souza et al.)            | 100 languages |   ASSIN2        |   0.8680     |   0.8680    |
+| mBERT (Souza et al.)            | 100 languages |   ASSIN2        |   0.8680     |   0.8680    |
 | PTT5 (Carmo et al.)             | EN & PT       |   ASSIN2        |   0.8850     |   0.8860    |
 | BERTimbau Large (Souza et al.)  | EN & PT       |   ASSIN2        |   0.9000     |   0.9000    |
 | BERT-pt (ours)                  | EN & PT       |  MNLI + ASSIN2  |   0.9207     |   0.9207    |    
                  
+# Data 
+
+We made available the following data:
+- SQuAD (Q&A)
+- FaQuAD (Q&A)
+- MNLI (NLI)
+- ASSIN2 (NLI)
+
+The datasets SQuAD and MNLI are directly downloaded from the notebooks of this repository. We also provide the FaQuAD and ASSIN2 datasets.
+
+# How do I cite this work?
+
+@article{cross-lingual2021,
+    title={A cost-benefit analysis of cross-lingual transfer methods},
+    author={Moraes, Guilherme and Bonifácio, Luiz Henrique and de Souza, Leandro Rodrigues and Nogueira, Rodrigo and Lotufo, Roberto},
+    journal={arXiv preprint arXiv:2105.06813},
+    url={https://arxiv.org/abs/2105.06813},
+    year={2021}
+}
