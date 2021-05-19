@@ -14,7 +14,7 @@ The models were benchmarked on three tasks (Question Answering, Natural Language
                  
 # Data 
 
-We made available the following data:
+We made available the following data and the respective translation code:
 - SQuAD (Q&A)
 - FaQuAD (Q&A)
 - MNLI (NLI)
@@ -34,14 +34,4 @@ The datasets SQuAD and MNLI are directly downloaded from the notebooks of this r
 }
 ~~~
 
-~~~ {.xml}
-  <name><surname>Mulvany</surname><given-names>Ian</given-names></name>,
-  <data-title>citing-dataset-elements</data-title>.
-  <source>FigShare</source>,
-  <date-in-citation content-type='pub-date' iso-8601-date='2014-06-30'>
-    <day>30</day><month>06</month><year>2014</year></date-in-citation>,
-  <pub-id pub-id-type='doi' xlink:href='https://doi.org/10.6084/m9.figshare.1088363'
-    assigning-authority='figshare'>10.6084/m9.figshare.1088363</pub-id>.
-</mixed-citation>
-~~~
 
