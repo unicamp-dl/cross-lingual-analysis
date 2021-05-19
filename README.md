@@ -14,7 +14,7 @@ The models were benchmarked on three tasks (Question Answering, Natural Language
                  
 ## Data 
 
-We made available the following data and the respective translation code:
+We made available the following data and the respectives notebooks with translation code:
 - SQuAD (Q&A)
 - FaQuAD (Q&A)
 - MNLI (NLI)
