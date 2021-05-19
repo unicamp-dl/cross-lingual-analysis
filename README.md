@@ -24,7 +24,7 @@ The datasets SQuAD and MNLI are directly downloaded from the notebooks of this r
 
 # How do I cite this work?
 
-: @article{cross-lingual2021,
+: *(Footnote)* @article{cross-lingual2021,
     title={A cost-benefit analysis of cross-lingual transfer methods},
     author={Moraes, Guilherme and Bonifácio, Luiz Henrique and de Souza, Leandro Rodrigues and Nogueira, Rodrigo and Lotufo, Roberto},
     journal={arXiv preprint arXiv:2105.06813},
