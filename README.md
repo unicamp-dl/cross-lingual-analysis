@@ -26,8 +26,8 @@ The datasets SQuAD and MNLI are directly downloaded from the notebooks of this r
 | ------------------------------- | ---------- | -------- | ---------- |--------- | 
 | Training examples               |  86,288    |   837    |   392,702  |  6,500   |   
 | Test examples                   |  21,557    |   63     |   20,000   |  2,448   |    
-| Translate Train (Batch size = 1)|    34h     |          |    36h     |          |  
-| Translate Test (Batch size = 1) |            |  1m 30s  |            |   31m    |
+| Translate Train (Batch size = 1)|    34h     |   -      |    36h     |    -     |  
+| Translate Test (Batch size = 1) |    -       |  1m 30s  |    -       |   31m    |
 ## References
 
 [1] [BERTimbau: Pretrained BERT Models for Brazilian Portuguese](https://www.researchgate.net/publication/345395208_BERTimbau_Pretrained_BERT_Models_for_Brazilian_Portuguese)
