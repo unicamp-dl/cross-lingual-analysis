@@ -12,7 +12,7 @@ The models were benchmarked on three tasks (Question Answering, Natural Language
 | BERTimbau Large (Souza et al.)  | EN & PT       |   ASSIN2        |   0.9000     |   0.9000    |
 | BERT-pt (ours)                  | EN & PT       |  MNLI + ASSIN2  |   0.9207     |   0.9207    |    
                  
-## Data 
+## How to Translate 
 
 We made available the following data and the respectives notebooks with translation code:
 - [SQuAD](https://colab.research.google.com/drive/1CSNwfWJCwhFgYTtjxsDvUdN1DMuU_P4-?usp=sharing) (Q&A)
